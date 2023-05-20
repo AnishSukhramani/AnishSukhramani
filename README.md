@@ -2,8 +2,10 @@
 <hr>
 <p>Hello World</p>
  -->
- <h1 align="center">Hi 👋, I'm Anish Sukhramani</h1>
-<h3 align="center">A passionate Frontend Web-Developer</h3>
+ <h1 align="left">Mr. Anish Sukhramani</h1>
+<h3 align="center">"I code with passion, precision, and a pinch of madness, creating seamless web wonders along the way, with flawless elegance, blending style and substance effortlessly.
+"</h3>
+<h5 align="center" style="italics">-A Connoisseur of Aesthetics-</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anishsukhramani&label=Profile%20views&color=0e75b6&style=flat" alt="anishsukhramani" /> </p>
 
