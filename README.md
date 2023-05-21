@@ -7,7 +7,9 @@
 "</h3>
 <h5 align="center" style="italics">-A Connoisseur of Aesthetics-</h5>
 
-<h6>Lorem</h6>
+<h6 align="justify">I am currently pursuing my Bachelor of Technology degree in Core Computer Science Engineering at Vellore Institute of Technology, Bhopal. I'm training to become a Software Developer and a Data Scientist. I've also finished front-end web development, and I'm on my way to becoming a Full-Stack Web Developer. I've become proficient in Python, C++, and Object-Oriented Programming thanks to my college curriculum. Additionally, I've improved in fundamental areas like Applied Linear Algebra, Discrete Mathematics & Graph Theory, Calculus & Laplace Transforms. I have also studied Digital Logic Design, Electric Circuits & Systems, Computational Linguistics, Engineering Physics, and Computer Architecture & Organisation. In addition to these, I'm actively working on my Data Structures and Algorithms abilities.</h6>
+
+<h6> I’m looking for help with <a href="https://en.wikipedia.org/wiki/Cloud_computing">Cloud Computing</a></h6>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anishsukhramani&label=Profile%20views&color=0e75b6&style=flat" alt="anishsukhramani" /> </p>
 
