@@ -4,7 +4,7 @@
  -->
  <h1 align="left">Mr. Anish Sukhramani</h1>
  <img src="https://drive.google.com/file/d/1nx9ehrmxWtguArJs8nR29r0KR3hgW9G8/view?usp=sharing" width="30" height="30"/>
- ![Alt text](https://drive.google.com/file/d/1nx9ehrmxWtguArJs8nR29r0KR3hgW9G8/view?usp=sharing)
+ 
 <h3 align="center">"I code with passion, precision, and a pinch of madness, creating seamless web wonders along the way, with flawless elegance, blending style and substance effortlessly.
 "</h3>
 <h5 align="center" style="italics">-A Connoisseur of Aesthetics-</h5>
