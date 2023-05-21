@@ -2,9 +2,17 @@
 <hr>
 <p>Hello World</p>
  -->
- <h1 align="left">Mr. Anish Sukhramani</h1>
- <img src="https://drive.google.com/file/d/1nx9ehrmxWtguArJs8nR29r0KR3hgW9G8/view?usp=sharing" width="30" height="30"/>
  
+  <h1 align="left">Mr. Anish Sukhramani</h1>
+<div align="center"  >
+  <img src="https://github.com/AnishSukhramani/AnishSukhramani/assets/91376836/ff67615f-3a0a-45bd-8c92-70e38cf44ec9" alt="Image" style="border-radius: 50px;" height="200">
+</div>
+
+
+<!--  <img src="https://github.com/AnishSukhramani/AnishSukhramani/assets/91376836/ff67615f-3a0a-45bd-8c92-70e38cf44ec9" alt="Image" height="200">
+
+ ![](https://github.com/AnishSukhramani/AnishSukhramani/assets/91376836/ff67615f-3a0a-45bd-8c92-70e38cf44ec9) -->
+
 <h3 align="center">"I code with passion, precision, and a pinch of madness, creating seamless web wonders along the way, with flawless elegance, blending style and substance effortlessly.
 "</h3>
 <h5 align="center" style="italics">-A Connoisseur of Aesthetics-</h5>
