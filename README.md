@@ -29,16 +29,18 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/anishsukhramani" target="blank"><img src="https://img.shields.io/twitter/follow/anishsukhramani?logo=twitter&style=for-the-badge" alt="anishsukhramani" /></a> </p>
+<p align="center"> <a href="https://twitter.com/anishsukhramani" target="blank"><img src="https://img.shields.io/twitter/follow/anishsukhramani?logo=twitter&style=for-the-badge" alt="anishsukhramani" /></a> </p>
 
  How to reach me **anishsukhamani@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me:</h4>
 <p align="left">
-<a href="https://twitter.com/anishsukhramani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anishsukhramani" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anishsukhramani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anishsukhramani" height="30" width="40" /></a>
-<a href="https://instagram.com/anishsukhramani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anishsukhramani" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anishsukhramani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anishsukhramani" height="30" width="40" /></a>
+<a href="https://twitter.com/anishsukhramani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anishsukhramani" height="20" width="30" /></a>
+<a href="https://linkedin.com/in/anishsukhramani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anishsukhramani" height="20" width="30" /></a>
+<a href="https://instagram.com/anishsukhramani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anishsukhramani" height="20" width="30" /></a>
+<a href="https://www.leetcode.com/anishsukhramani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anishsukhramani" height="20" width="30" /></a>
+<a href="mailto:anishsukhramani@gmail.com">anishsukhramani@gmail.com</a>
+<a align="center" href="https://twitter.com/anishsukhramani" target="blank"><img align="center" src="https://img.shields.io/twitter/follow/anishsukhramani?logo=twitter&style=for-the-badge" alt="anishsukhramani" /></a>
  <img align="right" src="https://komarev.com/ghpvc/?username=anishsukhramani&theme=tokyonight&hide_border=true&label=Profile%20views&style=flat" alt="anishsukhramani" /> 
 </p>
 
