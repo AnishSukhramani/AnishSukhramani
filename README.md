@@ -48,7 +48,7 @@
 
 <p align="center">&nbsp;<img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=anishsukhramani&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&locale=en" alt="anishsukhramani" /></p>
 <hr>
-<p align="center"><img width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anishsukhramani&theme=tokyonight&hide_border=true" alt="anishsukhramani" /><img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=anishsukhramani&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&locale=en" alt="anishsukhramani" /></p>
+<p align="center"><img width="45%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anishsukhramani&theme=tokyonight&hide_border=true" alt="anishsukhramani" /><img width="45%" align="center" src="https://github-readme-stats.vercel.app/api?username=anishsukhramani&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&locale=en" alt="anishsukhramani" /></p>
 <hr>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AnishSukhramani&bg_color=1a1b27&color=c194f5&line=75aaff&point=3bc4b4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
