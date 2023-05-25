@@ -38,7 +38,10 @@
 <a href="https://twitter.com/anishsukhramani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anishsukhramani" height="30" width="40" /></a>
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anishsukhramani" alt="anishsukhramani" style="height: 50%; margin:0"/></a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=anishsukhramani&show_icons=true&locale=en&layout=compact" style="height: 110px; margin: 0" alt="anishsukhramani" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anishsukhramani" alt="anishsukhramani" style="height: 50%; margin:0"/></a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anishsukhramani&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="anishsukhramani" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anishsukhramani&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&locale=en" alt="anishsukhramani" /></p>
 
