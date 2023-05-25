@@ -43,7 +43,7 @@
 
 <hr>
 
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img width="50%" align="left" src="https://github-profile-trophy.vercel.app/?username=anishsukhramani&theme=tokyonight&hide_border=true" alt="anishsukhramani" style="height: 250%; margin:0"/></a><img width="40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=anishsukhramani&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="anishsukhramani" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img width="50%" align="left" src="https://github-profile-trophy.vercel.app/?username=anishsukhramani&theme=tokyonight&hide_border=true" alt="anishsukhramani" style="height: 250%; margin:0"/></a><img width="45%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=anishsukhramani&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="anishsukhramani" /></p>
 <br>
 <br>
 <br>
