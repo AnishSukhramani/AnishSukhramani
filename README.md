@@ -36,6 +36,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/anishsukhramani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anishsukhramani" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anishsukhramani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anishsukhramani" height="30" width="40" /></a>
+<a href="https://instagram.com/anishsukhramani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anishsukhramani" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/anishsukhramani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anishsukhramani" height="30" width="40" /></a>
 </p>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=anishsukhramani&theme=tokyonight&hide_border=true" alt="anishsukhramani" style="height: 50%; margin:0"/></a>
