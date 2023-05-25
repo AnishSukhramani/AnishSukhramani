@@ -48,5 +48,5 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anishsukhramani&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&locale=en" alt="anishsukhramani" /></p>
 <hr>
-<p align="center"><img align="left" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=anishsukhramani&theme=tokyonight&hide_border=true" alt="anishsukhramani" /><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=anishsukhramani&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&locale=en" alt="anishsukhramani" /></p>
+<p align="center"><img align="left" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=anishsukhramani&theme=tokyonight&hide_border=true" alt="anishsukhramani" /><img  width="50%" src="https://github-readme-stats.vercel.app/api?username=anishsukhramani&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&locale=en" alt="anishsukhramani" /></p>
 
