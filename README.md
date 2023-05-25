@@ -40,7 +40,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anishsukhramani" alt="anishsukhramani" style="height: 50%; margin:0"/></a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=anishsukhramani&show_icons=true&locale=en&layout=compact" style="height: 110px; margin: 0" alt="anishsukhramani" /> </p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anishsukhramani&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&locale=en" alt="anishsukhramani" /></p>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anishsukhramani&show_icons=true&locale=en" alt="anishsukhramani" /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=anishsukhramani&" alt="anishsukhramani" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=anishsukhramani&" alt="anishsukhramani" /></p>
 <!-- <p><img align="center" src="https://camo.githubusercontent.com/5344ab5bc1a687df23591d12af52201d8ef0a1c6bff618671ab371353998508e/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d5072616e6a616c3336304167617277616c267468656d653d626c61636b2d69636526686964655f626f726465723d74727565267374726f6b653d30303030266261636b67726f756e643d3036304130434430" alt="anishsukhramani" /></p> -->
