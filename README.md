@@ -47,7 +47,7 @@
 <br>
 <br>
 <br>
-<hr>
+<!-- <hr> -->
 <hr>
 <p align="center"><img width="47.5%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anishsukhramani&theme=tokyonight&hide_border=true" alt="anishsukhramani" /><img width="47.5%" align="right" src="https://github-readme-stats.vercel.app/api?username=anishsukhramani&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&locale=en" alt="anishsukhramani" /></p>
 <br>
