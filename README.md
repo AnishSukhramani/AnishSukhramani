@@ -41,7 +41,10 @@
 <a href="https://www.leetcode.com/anishsukhramani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anishsukhramani" height="30" width="40" /></a>
 </p>
 
+<hr>
+
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img width="50%" align="left" src="https://github-profile-trophy.vercel.app/?username=anishsukhramani&theme=tokyonight&hide_border=true" alt="anishsukhramani" style="height: 250%; margin:0"/></a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=anishsukhramani&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="anishsukhramani" /></p>
+<br>
 <br>
 <br>
 <br>
