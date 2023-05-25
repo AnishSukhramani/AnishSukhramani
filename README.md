@@ -19,7 +19,7 @@
 
 <h6 align="justify">I am currently pursuing my Bachelor of Technology degree in Core Computer Science Engineering at Vellore Institute of Technology, Bhopal. I'm training to become a Software Developer and a Data Scientist. I've also finished front-end web development, and I'm on my way to becoming a Full-Stack Web Developer. I've become proficient in Python, C++, and Object-Oriented Programming thanks to my college curriculum. Additionally, I've improved in fundamental areas like Applied Linear Algebra, Discrete Mathematics & Graph Theory, Calculus & Laplace Transforms. I have also studied Digital Logic Design, Electric Circuits & Systems, Computational Linguistics, Engineering Physics, and Computer Architecture & Organisation. In addition to these, I'm actively working on my Data Structures and Algorithms abilities.</h6>
 
-<h6>I’m currently learning <a href="https://react.dev/"> ReactJS</a>, <a href="https://en.wikipedia.org/wiki/Machine_learning">Machine Learning</a> & <a href="https://en.wikipedia.org/wiki/Digital_Signature_Algorithm">DSA</a> <br> I’m looking for help with <a href="https://en.wikipedia.org/wiki/Cloud_computing">Cloud Computing</a> as I plan to work on it in the future.<p align="right"> <img src="https://komarev.com/ghpvc/?username=anishsukhramani&theme=tokyonight&hide_border=true&label=Profile%20views&style=flat" alt="anishsukhramani" /> </p></h6>
+<h6>I’m currently learning <a href="https://react.dev/"> ReactJS</a>, <a href="https://en.wikipedia.org/wiki/Machine_learning">Machine Learning</a> & <a href="https://en.wikipedia.org/wiki/Digital_Signature_Algorithm">DSA</a> <br> I’m looking for help with <a href="https://en.wikipedia.org/wiki/Cloud_computing">Cloud Computing</a> as I plan to work on it in the future.</h6>
 
 
 <h4 align="left">Languages and Tools:</h4>
@@ -39,6 +39,7 @@
 <a href="https://linkedin.com/in/anishsukhramani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anishsukhramani" height="30" width="40" /></a>
 <a href="https://instagram.com/anishsukhramani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anishsukhramani" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/anishsukhramani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anishsukhramani" height="30" width="40" /></a>
+ <img align="right" src="https://komarev.com/ghpvc/?username=anishsukhramani&theme=tokyonight&hide_border=true&label=Profile%20views&style=flat" alt="anishsukhramani" /> 
 </p>
 
 <hr>
