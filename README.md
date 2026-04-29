@@ -3,7 +3,7 @@
 <p>Hello World</p>
  -->
  
-  <h1 align="left">Mr. Anish Sukhramani</h1>
+  <h1 align="left">Anish Sukhramani</h1>
 <div align="center"  >
   <img src="https://github.com/AnishSukhramani/AnishSukhramani/assets/91376836/ff67615f-3a0a-45bd-8c92-70e38cf44ec9" alt="Image" style="border-radius: 50px;" height="200">
 </div>
